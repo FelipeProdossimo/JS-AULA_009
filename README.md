@@ -1,2 +1,7 @@
-# JS-AULA_009
-Atividades JS 
+# Aula de Javascript
+
+Atividades feitas sobre JS para obter mais conhecimentos
+
+## Técnologias
+- HTML
+- JAVASCRIPT
