@@ -2,6 +2,6 @@
 
 Atividades feitas sobre JS para obter mais conhecimentos
 
-## Técnologias
+## Tecnologias
 - HTML
 - JAVASCRIPT
