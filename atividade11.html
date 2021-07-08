@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background: rgb(248, 250, 131);
+            color: black;
+            font: normal 18pt Arial;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <h2>Iniciando estudos DOM</h2>
+    <p>Aqui vai o resultado</p>
+    <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript</p>
+    <div>Clique em mim!</div>
+
+    <script>
+        var p1 = window.document.getElementsByTagName('p')[0] 
+        
+        /*
+        Esse comando é de escrever na tela
+        window.document.write('Está escrito assim: ' + p1.innerText)
+        */
+
+        //Esse é para estilizar a linha do var
+        p1.style.color = ''
+    </script>
+</body>
+</html>
